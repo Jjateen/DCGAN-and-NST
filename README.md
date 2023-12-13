@@ -1,4 +1,3 @@
-```markdown
 # Butterfly Generation with DCGAN and Neural Style Transfer
 
 This repository combines a Deep Convolutional Generative Adversarial Network (DCGAN) for generating butterfly images and a Neural Style Transfer algorithm to apply artistic styles to images. The DCGAN is trained on a butterfly image dataset, and the Neural Style Transfer is applied to stylize the generated butterfly images.
