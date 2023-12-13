@@ -61,7 +61,7 @@ This section introduces a Neural Style Transfer algorithm implemented in a Jupyt
   ![Content Image](images/arch.png)
   
 - Generated Image (`arch.png`):
-  ![Generated Image](images/arch.png)
+  ![Generated Image](images/after_styling.png)
   
 ### Requirements
 
