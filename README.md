@@ -32,7 +32,8 @@ pip install -r requirements.txt
 Open and run the `train.ipynb` notebook to train the DCGAN on your own dataset. Customize training parameters such as epochs, batch size, and learning rate within the notebook.
 
 ### Generated Images
-
+#### Training Images
+![Training Images](images/train.png)
 #### 1st Epoch
 
 ![1st Epoch](images/epoch1.png)
@@ -54,11 +55,14 @@ This section introduces a Neural Style Transfer algorithm implemented in a Jupyt
 ### Style and Content Images
 
 - Style Image (`style.png`):
-  ![Style Image](style.png)
+  ![Style Image](images/style.png)
 
 - Content Image (`arch.png`):
-  ![Content Image](arch.png)
-
+  ![Content Image](images/arch.png)
+  
+- Generated Image (`arch.png`):
+  ![Generated Image](images/arch.png)
+  
 ### Requirements
 
 Additional dependencies for Neural Style Transfer:
