@@ -51,6 +51,14 @@ Open and run the `train.ipynb` notebook to train the DCGAN on your own dataset. 
 
 This section introduces a Neural Style Transfer algorithm implemented in a Jupyter Notebook (`neural_style_transfer.ipynb`). The notebook styles an input image (`arch.png`) according to the style of another image (`style.png`). The result is saved as `after_styling.png`.
 
+### Style and Content Images
+
+- Style Image (`style.png`):
+  ![Style Image](style.png)
+
+- Content Image (`arch.png`):
+  ![Content Image](arch.png)
+
 ### Requirements
 
 Additional dependencies for Neural Style Transfer:
@@ -74,4 +82,4 @@ The combined project showcases the progression of the DCGAN in generating butter
 ## Acknowledgments
 
 Special thanks to the contributors and sources of both the butterfly dataset and the style images used in this project.
-
+```
