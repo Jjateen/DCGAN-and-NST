@@ -83,3 +83,4 @@ The combined project showcases the progression of the DCGAN in generating butter
 
 Special thanks to the contributors and sources of both the butterfly dataset and the style images used in this project.
 ```
+https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification
