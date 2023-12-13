@@ -10,7 +10,7 @@ This section covers the DCGAN implementation for generating realistic and divers
 
 ### Dataset
 
-The butterfly dataset used for training is located in the `dataset` directory. Ensure proper attribution to the original sources of the dataset. You can find the dataset [here](your_dataset_link).
+The butterfly dataset used for training is located in the `dataset` directory. Ensure proper attribution to the original sources of the dataset. You can find the dataset [here](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification).
 
 ### Requirements
 
@@ -74,4 +74,4 @@ The combined project showcases the progression of the DCGAN in generating butter
 ## Acknowledgments
 
 Special thanks to the contributors and sources of both the butterfly dataset and the style images used in this project.
-https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification
+
